@@ -1,0 +1,28 @@
+@font-face{
+	font-family: "Exo2";
+	src:url('../fonts/Exo2-Regular.otf');
+	font-style:normal;
+	font-weight:normal;
+}
+
+#container{
+	width: 500px;
+	margin: 100px;
+	padding: 20px;
+	background-color: #d1d1d1;
+	box-shadow: 0 0 1px #58585a;
+	margin-left: 600px;
+}
+#container .header{
+	font-size: 100px;
+	font-weight: normal;
+	text-align: center;
+	color: #000000;
+}
+#container .subheader{
+	font-size: 25px;
+	font-family: "Exo2";
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 	10px;
+}
